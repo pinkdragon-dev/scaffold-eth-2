@@ -81,7 +81,7 @@ Visit our [docs](https://docs.scaffoldeth.io) to learn all the technical details
 
 To know more about its features, check out our [website](https://scaffoldeth.io).
 
-## Contributing to Scaffold-ETH 2
+## Contributing to Scaffold-ETH 2..
 
 We welcome contributions to Scaffold-ETH 2!
 
